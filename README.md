@@ -7,16 +7,16 @@
 ```
 sales
 ```
-![画像1](./Matplotlib-Exercises3-1.png)
+![画像1](./image01.png)
 
 <br>
 
 ## 円グラフ表示
-![画像2](./Matplotlib-Exercises3-2.png)
+![画像2](./image02.png)
 
 <br>
 
 ## 円グラフに凡例追加
-![画像3](./Matplotlib-Exercises3-3.png)
+![画像3](./image03.png)
 
 <br>
